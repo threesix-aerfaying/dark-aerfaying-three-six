@@ -42,6 +42,21 @@ html {
 i.notification {
   color: #06090FDD;
 }
+
+div .alerter_container_cTq75  {
+  border-color: #0d1117
+}
+
+.alerter_alert_3z7bJ {
+  color:#fff;
+  background: #0d1117;
+  border-color: #454545
+}
+
+span .alerter_close_2SBEY {
+  color: #fff
+}
+
 .lg{
   color: #888 !important;;
 }
@@ -1656,6 +1671,7 @@ a {
   }, -1);
 
   function intervalFunc_actionStat() {
+    //定时事件
     $(
       "[src='https://cdn.gitblock.cn/static/images/776e7636933f5be6ab8bd9eb5334ba3d.png']"
     ).attr(
