@@ -76,17 +76,26 @@ body {
 background-color: #f9f2f400 !important;
 }*/
 
-.qq_face, pre code {
+.qq_face, pre code , .dkaer {
   background-color: #f9f2f400 !important;
+}
+
+.dkaer.jcaz {
+  display: none;
 }
 
 .stat-graph_weeks_xL4mn img , .stat-graph_tips_3ptTC img {
   /*filter: invert(94%)*/
-  border: 1px solid #0d1117
+  border: 1.9px solid #0d1117
 }
 
 .footer-bar_wrapper_10YKs {
-  filter: invert(94%)
+  /*filter: invert(0%)*/
+  background-color: #888
+}
+
+.footer-bar_wrapper_10YKs .container div , .footer-bar_wrapper_10YKs .container div div , .footer-bar_wrapper_10YKs .container div div a {
+  color: #000
 }
 
 .default-img_box_3iauv img {
