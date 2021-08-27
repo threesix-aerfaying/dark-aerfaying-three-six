@@ -8,7 +8,7 @@
 
 ---
 
-[安装教程](https://aerfaying.com/Studios/24622/Forum/PostView?postId=6407 "安装教程")
+[安装教程](https://aerfaying.com/Studios/24622/Forum/PostView?postId=6715 "安装教程")
 
 
 
